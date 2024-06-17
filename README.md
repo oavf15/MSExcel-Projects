@@ -21,7 +21,7 @@ Financial Plan for a Lawn Care Business
 ![Screenshot](/ProjectScreenshots/Project2.png)
 
 ### Download
-[Download Project1.xlsx](/Project2.xlsx)
+[Download Project2.xlsx](/Project2.xlsx)
 
 ## Project 3
 
@@ -32,7 +32,7 @@ The college has started facilitating fitness classes for student, faculty and st
 ![Screenshot](/ProjectScreenshots/Project3.png)
 
 ### Download
-[Download Project1.xlsx](/Project3.xlsx)
+[Download Project3.xlsx](/Project3.xlsx)
 
 
 ## Project 4
@@ -44,7 +44,7 @@ Carly has the most popular costume shop in town and generates a lot of sales thr
 ![Screenshot](/ProjectScreenshots/Project4.png)
 
 ### Download
-[Download Project1.xlsx](/Project4.xlsx)
+[Download Project4.xlsx](/Project4.xlsx)
 
 ## Project 5
 
@@ -55,4 +55,4 @@ The company is considering branching into the online retail market soon because 
 ![Screenshot](/ProjectScreenshots/Project5.png)
 
 ### Download
-[Download Project1.xlsx](/Project5.xlsx)
+[Download Project5.xlsx](/Project5.xlsx)
